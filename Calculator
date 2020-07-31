@@ -1,0 +1,7 @@
+from cs50 import get_string
+
+res = get_string ("Me amas Yessica?\n)
+if res = Yes
+print("Yo tambien te amo!\n")
+Else
+print("Muere!\n")
